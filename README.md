@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./berta.png" alt="R&B Screenshot" width="220" />
+  <img src="./Berta.png" alt="R&B Screenshot" width="220" />
 </p>
 
 <p align="center">
